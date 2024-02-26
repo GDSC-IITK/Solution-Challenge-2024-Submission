@@ -5,11 +5,11 @@ Our project consists of two major components: a mobile application (written in F
 
 # Application
 
-To build the application on your local device follow the steps given below:
-1. Install Flutter https://docs.flutter.dev/get-started/install
-2. Run 'flutter pub get' to install the packages of the repository
-3. Run 'flutter run' after connecting to any emulator, physical device or web browser.
-4. App is ready to use
+	To build the application on your local device follow the steps given below:
+	1. Install Flutter https://docs.flutter.dev/get-started/install
+	2. Run 'flutter pub get' to install the packages of the repository
+	3. Run 'flutter run' after connecting to any emulator, physical device or web browser.
+	4. App is ready to use
 
 Please note: We are using couple of api keys which are not present on Github. First one includes: google-services.json file (we are using Firebase as a BaaS) and the API KEY for Gemini.
 
@@ -19,8 +19,8 @@ Original Application Repo: https://github.com/GDSC-IITK/solutions-challenge-2024
 
 Instructions on how to run the ML Model:
 
-Install the libraries using the following commands inside the ML folder:
-                   pip install requirements.txt
+	Install the libraries using the following commands inside the ML folder:
+	                   pip install requirements.txt
 
 	For Windows Users:
 	Type the following commands inside your folder to start the local server:
