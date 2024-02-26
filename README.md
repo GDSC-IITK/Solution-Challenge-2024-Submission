@@ -29,5 +29,7 @@ Instructions on how to run the ML Model:
 
 	For Linux and Mac Users:
 	Type the following commands inside your folder to start the local server:
-			export FLASK_APP=model.py
-	flask run
+		export FLASK_APP=model.py
+		flask run
+
+Original ML Model repo: https://github.com/GDSC-IITK/solutions-challenge-ml
