@@ -22,12 +22,12 @@ Instructions on how to run the ML Model:
 Install the libraries using the following commands inside the ML folder:
                    pip install requirements.txt
 
-For Windows Users:
+	For Windows Users:
 	Type the following commands inside your folder to start the local server:
 		$env:FLASK_APP = "model.py"
 		flask run
 
 	For Linux and Mac Users:
-Type the following commands inside your folder to start the local server:
-		export FLASK_APP=model.py
-flask run
+	Type the following commands inside your folder to start the local server:
+			export FLASK_APP=model.py
+	flask run
