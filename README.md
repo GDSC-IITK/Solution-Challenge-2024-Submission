@@ -3,7 +3,7 @@ GDSC IITK submission of Solution Challenge
 
 Our project consists of two major components: a mobile application (written in Flutter) and a predictive machine-learning algorithm. 
 
-#Application
+# Application
 
 To build the application on your local device follow the steps given below:
 1. Install Flutter https://docs.flutter.dev/get-started/install
